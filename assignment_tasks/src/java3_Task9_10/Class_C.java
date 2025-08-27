@@ -3,7 +3,13 @@ package java3_Task9_10;
 public class Class_C {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
+		Class_C obk= new Class_C();
+		 
+		obk.CallingFromC();
+		
+		
 
 	}
 
